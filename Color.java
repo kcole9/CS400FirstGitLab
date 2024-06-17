@@ -1,6 +1,9 @@
 /*
  *	Color class
- */
+ *	Name: Kathryn Cole
+ *	Email: kcole9@wisc.edu
+ *	CS Account User name: kcole
+*/
 public class Color{
 	private String color;
 

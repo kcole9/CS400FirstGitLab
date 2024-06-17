@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ *	Name: Kathryn Cole
+ *	Email: kcole9@wisc.edu
+ *	CS Account User name: kcole
  */
 import java.util.*;
 
